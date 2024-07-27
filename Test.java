@@ -9,5 +9,6 @@ public class Test {
 		System.out.println("This is a Java Project");
 		System.out.println("It is Sample for Test");
 		System.out.println(new Date());
+		System.out.println("Second Commit");
 	}
 }
